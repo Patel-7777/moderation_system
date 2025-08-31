@@ -2,7 +2,7 @@
 
 A content moderation system using Django, PostgreSQL, Celery, and OpenAI's Moderation API.
 
-## Feature of projects
+## Feature
 
 - Content submission API
 - Asynchronous content moderation using OpenAI
